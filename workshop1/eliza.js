@@ -155,6 +155,10 @@ var rules = {
     "Why do you say 'AM?'",
     "I don't understand that",
   ],
+  "~*x Dalia ~*y": [
+    "You have a nice name.",
+    "What does your name mean?",
+  ],
   "~x are ~*y": [
     "Did you think they might not be ~y?",
     "Possibly they are ~y",
